@@ -1,0 +1,10 @@
+b__*
+*.ali
+*.o
+*.stdout
+*.stderr
+*.cswi
+messages.txt
+*-loc.xml
+*.bexch
+*main
